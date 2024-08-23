@@ -1,0 +1,12 @@
+.tags-container{
+  display:flex;
+  justify-content:space-evenly;
+  
+}
+.tags-main-container{
+  display:flex;
+  flex-direction:column;
+  gap:150px;
+  margin-bottom:20%;
+  margin-top:10%;
+}
